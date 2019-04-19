@@ -1,2 +1,2 @@
-# FullStackOpen-Part3
-## https://puhelinluettelo-engberg-jonas.herokuapp.com/ to access the live app
+# Puhelinluettelo App
+Access live app: https://puhelinluettelo-engberg-jonas.herokuapp.com/
