@@ -85,7 +85,7 @@ app.put("/api/persons/:id", (req, res, next) => {
 });
 
 //POST (new) contact
-app.post("/api/persons", (req, res) => {
+app.post("/api/persons", (req, res, next) => {
   const body = req.body;
 
   if (body.name === undefined || body.number === undefined) {
