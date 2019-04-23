@@ -4,9 +4,9 @@ if (process.argv.length < 3) {
   console.log("anna salasana");
   process.exit(1);
 }
-if(process.argv.length === 4){
-    console.log("nimi tai numero puuttuu")
-    process.exit(1)
+if (process.argv.length === 4) {
+  console.log("nimi tai numero puuttuu");
+  process.exit(1);
 }
 
 const password = process.argv[2];
